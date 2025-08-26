@@ -1,10 +1,12 @@
+<img align="center" alt="banner" width="900" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00ADB5">Syed Imadulla</span></h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | Open Source Contributor</h3>
 
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="coding" width="900"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&width=600&lines=Frontend+Developer;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 ---
