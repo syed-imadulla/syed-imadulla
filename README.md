@@ -54,10 +54,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-imadulla&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=syed-imadulla&label=Profile%20Views&color=0e75b6&style=flat" alt="syed-imadulla" /> 
 </p>
