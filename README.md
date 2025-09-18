@@ -19,7 +19,7 @@
 - 🔭 Working on [CheetsheetsHub](https://github.com/syed-imadulla/CheetsheetsHub)
 - 🤝 Open Source Contributor @ GSSoC 2025 
 - 📫 Reach me at **imadulla.s45@gmail.com**  
-- ⚡ Fun fact: I believe **Coffee ☕ + Code 💻 = Happiness 🔥**  
+- ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**  
 
 ---
 
