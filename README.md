@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me:
 
-<img align="right" alt="coding gif" width="390" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
+<img align="right" alt="coding gif" width="370" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 - 🌱 Currently learning **MERN Stack**  
 - 🔭 Working on [CheetsheetsHub](https://github.com/syed-imadulla/CheetsheetsHub)
