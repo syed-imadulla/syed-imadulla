@@ -17,7 +17,7 @@
 
 - 🌱 Currently learning **MERN Stack**  
 - 🔭 Working on [CheetsheetsHub](https://github.com/syed-imadulla/CheetsheetsHub)
-- 🤝 Open Source Contributor @ GSSoC 2025 & Hacktoberfest 2025
+- 🤝 Open Source Contributor @ GSSoC'25 & Hacktoberfest'25
 - 📫 Reach me at **imadulla.s45@gmail.com**  
 - ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**  
 
