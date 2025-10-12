@@ -66,4 +66,6 @@
 </p>
 
 ---
+###🌟 Open Source Badges
+[![An image of @syedimadulla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedimadulla)](https://holopin.io/@syedimadulla)
 <p align="center">⭐️ From <a href="https://github.com/syed-imadulla">Syed Imadulla</a></p>
