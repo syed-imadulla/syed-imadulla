@@ -30,6 +30,9 @@
   <a href="https://linkedin.com/in/syed-imadulla-563a78288" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
+  <a href="https://github.com/syed-imadulla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  </a>
   <a href="https://instagram.com/syed_imadulla._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
