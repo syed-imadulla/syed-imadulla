@@ -52,9 +52,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-imadulla&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-imadulla&layout=compact&theme=radical" height="170"/>
+  <!-- <img 
+    src="https://github-readme-stats.vercel.app/api?username=syed-imadulla&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" 
+  /> -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=syed-imadulla&theme=tokyonight&hide_border=false" 
+  />
+  <br/>
+  <!-- <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-imadulla&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+  /> -->
 </p>
+
 
 <p align="center">
   <!-- Profile Views -->
