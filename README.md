@@ -16,7 +16,7 @@
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 - 🌱 Currently learning **MERN Stack**  
-- 🔭 Working on [CheetsheetsHub](https://github.com/syed-imadulla/CheetsheetsHub)
+- 🔭 Working on [StudyFlow AI](https://github.com/syed-imadulla/SudyFlow-Ai.git)
 - 🤝 Open Source Contributor @ GSSoC'25 & Hacktoberfest'25
 - 📫 Reach me at **imadulla.s45@gmail.com**  
 - ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**  
