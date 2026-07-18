@@ -52,22 +52,30 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- <img 
-    src="https://github-readme-stats.vercel.app/api?username=syed-imadulla&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" 
-  /> -->
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=syed-imadulla&theme=tokyonight&hide_border=false" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=syed-imadulla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub Stats"
   />
-  <br/>
-  <!-- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-imadulla&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-  /> -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syed-imadulla&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=syed-imadulla&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=syed-imadulla&label=Profile%20Views&color=0e75b6&style=flat" alt="syed-imadulla" /> 
+  <img
+    src="https://komarev.com/ghpvc/?username=syed-imadulla&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
