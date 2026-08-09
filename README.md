@@ -2,11 +2,11 @@
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00ADB5">Syed Imadulla</span></h1>
-<h3 align="center">🚀 A Passionate Frontend Developer | Open Source Contributor</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer | Open Source Contributor</h3>
 
 <!-- Banner / GIF -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Frontend+Developer+;Open+Source+Contributor+;Tech+Explorer+%F0%9F%9A%80;CSE'28+Undergrad" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Full+Stack+Developer+;Open+Source+Contributor+;Tech+Explorer+%F0%9F%9A%80;CSE'28+Undergrad" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/syed-imadulla-563a78288" target="_blank">
+  <a href="https://linkedin.com/in/syed-imadulla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://github.com/syed-imadulla" target="_blank">
@@ -45,7 +45,7 @@
 
 ### ⚡ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,git,github,figma,postman,blender,ps" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,git,html,css,react,nodejs,express,github,mongodb,mysql,docker,firebase,figma,postman,linux" />
 </p>
 
 ---
