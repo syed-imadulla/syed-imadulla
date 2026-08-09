@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=syed-imadulla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats-fast.vercel.app/api?username=syed-imadulla&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=syed-imadulla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=syed-imadulla&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Top Languages"
   />
