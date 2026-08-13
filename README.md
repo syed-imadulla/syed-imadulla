@@ -17,11 +17,11 @@
 
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
-- 💻 Full-stack developer • React, Node.js, Express & MongoDB
-- 🧠 Practicing **Data Structures & Algorithms in C++**
+- 💻 Full-stack developer • **React, Node.js, Express & MongoDB**
+- 🧠 Practicing DSA in C++
 - 🎨 Into **frontend, UI/UX & creative web experiences**
-- 🔨 Building practical projects and turning ideas into working products
-- 🚀 Improving my **backend development, APIs & deployment skills**
+- 🚀 Exploring **backend, APIs & deployment**
+- 🔨 Building practical things with code
 - ⚡ **Chai ☕ + Code 💻 = Happiness 🔥**
 
 ---
