@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://syedimadulla.vercel.app/" target="_blank">
-    <img src="./favicon.svg" alt="Portfolio" height="40"/>
+    <img src="./assets/favicon.svg" alt="Portfolio" height="40"/>
   </a>
 
   <a href="https://linkedin.com/in/syed-imadulla" target="_blank">
