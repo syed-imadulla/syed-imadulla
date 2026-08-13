@@ -15,11 +15,13 @@
 
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
-- 🌱 Currently learning **MERN Stack**  
-- 🔭 Working on [StudyFlow AI](https://github.com/syed-imadulla/SudyFlow-Ai.git)
-- 🤝 Open Source Contributor @ GSSoC'25 & Hacktoberfest'25
-- 📫 Reach me at **imadulla.s45@gmail.com**  
-- ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**  
+- 💻 Building full-stack applications with **React, Node.js, Express & MongoDB**
+- 🧠 Practicing **Data Structures & Algorithms in C++**
+- 🎨 Interested in **frontend development, UI/UX & creative web experiences**
+- 🔨 I enjoy building **practical projects** and turning ideas into working products
+- 🚀 Exploring **backend development, APIs, deployment & open source**
+- 📫 Reach me at **imadulla.s45@gmail.com**
+- ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**
 
 ---
 
