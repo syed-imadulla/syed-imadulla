@@ -2,11 +2,13 @@
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00ADB5">Syed Imadulla</span></h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | C++ & DSA | Turning Ideas Into Things</h3>
 
 <!-- Banner / GIF -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Full+Stack+Developer+;Open+Source+Contributor+;Tech+Explorer+%F0%9F%9A%80;CSE'28+Undergrad" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=600&lines=Full+Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Frontend+%26+UI%2FUX+Builder;Building+Practical+Things+%F0%9F%9A%80;CSE'28+Undergrad" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -15,29 +17,36 @@
 
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
-- 💻 Building full-stack applications with **React, Node.js, Express & MongoDB**
+- 💻 Full-stack developer • React, Node.js, Express & MongoDB
 - 🧠 Practicing **Data Structures & Algorithms in C++**
-- 🎨 Interested in **frontend development, UI/UX & creative web experiences**
-- 🔨 I enjoy building **practical projects** and turning ideas into working products
-- 🚀 Exploring **backend development, APIs, deployment & open source**
-- 📫 Reach me at **imadulla.s45@gmail.com**
-- ⚡ Fun fact: I believe **Chai ☕ + Code 💻 = Happiness 🔥**
+- 🎨 Into **frontend, UI/UX & creative web experiences**
+- 🔨 Building practical projects and turning ideas into working products
+- 🚀 Improving my **backend development, APIs & deployment skills**
+- ⚡ **Chai ☕ + Code 💻 = Happiness 🔥**
 
 ---
 
 
 
 ### 🌐 Connect with Me
+
 <p align="left">
+  <a href="https://syedimadulla.vercel.app/" target="_blank">
+    <img src="./assets/portfolio-icon.svg" alt="Portfolio" height="40"/>
+  </a>
+
   <a href="https://linkedin.com/in/syed-imadulla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
+
   <a href="https://github.com/syed-imadulla" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
+
   <a href="https://instagram.com/syed_imadulla._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
+
   <a href="mailto:imadulla.s45@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
