@@ -64,7 +64,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=syed-imadulla&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=syed-imadulla&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Stats"
   />
