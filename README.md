@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me:
 
-<img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
+<img align="right" alt="coding gif" width="350" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 - 💻 Full-stack developer • **React, Node.js, Express & MongoDB**
 - 🧠 Practicing DSA in C++
