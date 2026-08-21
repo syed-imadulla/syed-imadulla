@@ -31,7 +31,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://syedimadulla.vercel.app/" target="_blank">
+  <a href="https://syedimadulla.me" target="_blank">
     <img src="./assets/favicon.svg" alt="Portfolio" height="40"/>
   </a>
 
