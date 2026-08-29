@@ -77,7 +77,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=syed-imadulla&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=syed-imadulla&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
