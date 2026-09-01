@@ -93,7 +93,10 @@
 
 ### 🚀 Fun Add-ons
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-imadulla&bg_color=0D1117&color=00ADB5&line=00ADB5&point=FFFFFF&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github.pumbas.net/api/contributions/syed-imadulla?colour=00ADB5&bgColour=0D1117&dotColour=FFFFFF"
+    alt="GitHub Contributions Graph"
+  />
 </p>
 
 ---
